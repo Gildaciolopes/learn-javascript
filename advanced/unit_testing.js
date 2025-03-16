@@ -1,4 +1,4 @@
-// 📌 JavaScript Intermediate - Unit Testing
+// 📌 JavaScript Advanced - Unit Testing
 
 // Welcome to the tenth section of the JavaScript Advanced tutorial!
 // Here, you'll learn the basics of Unit Testing in JavaScript using Jest.
