@@ -1,6 +1,6 @@
 // 📌 JavaScript Intermediate - API Consumption (Fetch & Axios)
 
-// Welcome to the eighth section of the JavaScript Intermediate tutorial!
+// Welcome to the eighth section of the JavaScript Advanced tutorial!
 // Here, you'll learn how to fetch data from APIs using Fetch API and Axios.
 
 // Define API URL for maintainability

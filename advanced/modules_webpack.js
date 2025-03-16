@@ -1,6 +1,6 @@
 // 📌 JavaScript Intermediate - Modules and Webpack
 
-// Welcome to the seventh section of the JavaScript Intermediate tutorial!
+// Welcome to the seventh section of the JavaScript Advanced tutorial!
 // Here, you'll learn how to use JavaScript modules and bundle them with Webpack.
 
 // Using ES6 Modules

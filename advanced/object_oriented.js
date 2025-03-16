@@ -1,6 +1,6 @@
 // 📌 JavaScript Intermediate - Object-Oriented Programming (OOP)
 
-// Welcome to the sixth section of the JavaScript Intermediate tutorial!
+// Welcome to the sixth section of the JavaScript Advanced tutorial!
 // Here, you'll learn about Object-Oriented Programming (OOP) in JavaScript.
 
 // Constructor Function
